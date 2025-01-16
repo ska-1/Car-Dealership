@@ -11,7 +11,7 @@ This project is a web scraper designed to collect car listings data from [Cars.c
   - Mileage
   - Vehicle condition and other key attributes
 - Paginated scraping, handling multiple pages of listings
-- Saves scraped data to CSV/JSON format for easy analysis
+- Saves scraped data to CSV format for easy analysis
 - Configurable options for customizing the scraping process
 
 ---
@@ -42,7 +42,7 @@ Ensure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/Car-Dealership.git
+   git clone https://github.com/yourusername/cars.com-web-scraper.git
    cd cars-com-web-scraper
    ```
 
