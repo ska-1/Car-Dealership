@@ -1,4 +1,5 @@
 # Cars.com Web Scraper
+![image](https://github.com/user-attachments/assets/82c7c439-5346-459b-b469-f21130b96dc4)
 
 This project is a web scraper designed to collect car listings data from [Cars.com](https://www.cars.com/). It extracts information about cars such as make, model, price, location, mileage, and other relevant attributes to build a structured dataset for analysis or further processing.
 
